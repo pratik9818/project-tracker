@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791020585648,
+      "tag": "0000_spicy_korg",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791020603390,
+      "tag": "0001_fts",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791031945954,
+      "tag": "0002_past_gressill",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1791139168001,
+      "tag": "0003_type_to_lists",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1791139212056,
+      "tag": "0004_drop_item_type",
+      "breakpoints": true
+    }
+  ]
+}
